@@ -20,12 +20,8 @@
 
 [![FastAPI](https://img.shields.io/badge/Python_framework-FastAPI-teal?style=flat-square&logo=python&logoColor=white)](https://fastapi.tiangolo.com/)
 [![Vue](https://img.shields.io/badge/JavaScript_framework-Vue-success?style=flat-square&logo=vue.js&logoColor=white)](https://vuejs.org/)
-[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/) [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-[![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<a href="https://user-images.githubusercontent.com/26674818/109072171-a4781c00-76c2-11eb-8c07-2a0102597530.mp4" title="2020 GitHub Skyline being 3D printed in PLA on an Ultimaker S5"><img src="https://user-images.githubusercontent.com/26674818/109075418-15b9ce00-76c7-11eb-9692-ecc89fffd8f8.png" alt="2020 GitHub Skyline being 3D printed in PLA on an Ultimaker S5" width="50%" /></a>
 
-## :stars: :cityscape: :star_struck: GitHub Skyline :robot: :printer: :sparkles:
-
-<img src="https://skyline.github.com/br3ndonland/2020.png" alt="GitHub Skyline thumbnail" width="100%" />
-
-[My 2020 GitHub Skyline](https://skyline.github.com/br3ndonland/2020)
+:point_up: [My 2020 GitHub Skyline](https://skyline.github.com/br3ndonland/2020) being 3D printed :robot: :printer: :star_struck:
