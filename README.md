@@ -23,3 +23,9 @@
 [![Terraform](https://img.shields.io/badge/Learning-Terraform-623ce4?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
 
 [![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
+## :stars: :cityscape: :star_struck: GitHub Skyline :robot: :printer: :sparkles:
+
+<img src="https://skyline.github.com/br3ndonland/2020.png" alt="GitHub Skyline thumbnail" width="100%" />
+
+[My 2020 GitHub Skyline](https://skyline.github.com/br3ndonland/2020)
